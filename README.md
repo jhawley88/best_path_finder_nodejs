@@ -1,3 +1,5 @@
+##### Solution to coding challenge "Pattern-Matching Paths"
+
 This program can be executed in the terminal by running the command
 
 ```sh
