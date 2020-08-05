@@ -1,5 +1,5 @@
 ##### Solution to coding challenge "Pattern-Matching Paths"
-Instructions for challenge can be found [HERE](./Pattern-Matching Paths)
+Instructions for challenge can be found [HERE](./Pattern-Matching-Paths)
 
 This program can be executed in the terminal by running the command
 
